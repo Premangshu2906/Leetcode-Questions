@@ -20,4 +20,8 @@ This repository is maintained for personal learning and practice. Suggestions an
 
 ---
 
-If you find this repository helpful, consider giving it a ⭐.
+LinkedIn: https://www.linkedin.com/in/premangshuchatterjee/
+LeetCode: https://leetcode.com/u/Premangshu/
+GitHub: https://github.com/Premangshu2906
+
+
