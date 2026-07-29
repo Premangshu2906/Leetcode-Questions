@@ -8,7 +8,7 @@ The repository is organized by problem files, with each solution containing:
 
 * Problem name
 * C++ solution
-* Clean and readable implementation
+* Mostly clean code
 
 ## Language
 
@@ -19,9 +19,9 @@ The repository is organized by problem files, with each solution containing:
 This repository is maintained for personal learning and practice. Suggestions and improvements are always welcome.
 
 ---
+## Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/premangshuchatterjee/
-LeetCode: https://leetcode.com/u/Premangshu/
-GitHub: https://github.com/Premangshu2906
-
+- LinkedIn: https://www.linkedin.com/in/premangshuchatterjee/
+- LeetCode: https://leetcode.com/u/Premangshu/
+- GitHub: https://github.com/Premangshu2906
 
